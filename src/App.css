@@ -1,14 +1,15 @@
 html {
-    color-scheme: light dark;
-    font-family: system-ui;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100%;
+  /* color-scheme: light dark; */
+  font-family: system-ui;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
 
-    --primary-color: #746a64;
-    --muted-color: #fafafa;
+  --primary-color: #746a64;
+  --muted-color: #fafafa;
+  --text-color: #757575;
 
-    --white-color: #ffffff;
-    --black-color: #212121;
+  --white-color: #ffffff;
+  --black-color: #212121;
 }
